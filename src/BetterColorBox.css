@@ -1,0 +1,11 @@
+.BetterColorBox {
+  width: 20%;
+  height: 33.3333%;
+  transition: .5s;
+  transform: scale(.95);
+}
+
+.BetterColorBox:hover {
+  cursor: pointer;
+  transform: scale(.98);
+}

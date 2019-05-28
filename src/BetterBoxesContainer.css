@@ -1,0 +1,7 @@
+.BetterBoxesContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 100vh;
+  backface-visibility: hidden;
+}
